@@ -2,18 +2,9 @@
 
 See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
 
-This code of conduct applies to all of the projects under the [Angular organization on GitHub](https://github.com/orgs/angular/) and the Angular community at large (IRC, mailing lists, Google+, Twitter, etc.).
+This code of conduct applies to all of the projects under the [Nimb3s organization on GitHub](https://github.com/orgs/nimb3s/) and the Nimb3s community at large (IRC, mailing lists, Google+, Twitter, etc.).
 
-See the [contributing guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md) and the [tutorial on building angular](http://docs.angularjs.org/misc/contribute) for technical details of contributing to AngularJS or its satellite projects.
-
-
-## Events
-
-If you are running an Angular meetup, conference, user group, or other type of event, we encourage you to adopt and provide an appropriate code of conduct.
-The [confcodeofconduct.com](http://confcodeofconduct.com/) template is a good starting point.
-You should also provide contact information for atttendees to get help or report a violation.
-
-For more on adopting a code of conduct, see [Ashe Dryden's FAQ](http://ashedryden.com/blog/codes-of-conduct-101-faq).
+See the [contributing guidelines](https://github.com/nimb3s/nimb3s/blob/master/CONTRIBUTING.md)
 
 
 ## Credits
