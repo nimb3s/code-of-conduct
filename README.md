@@ -1,6 +1,6 @@
 # Angular Contributor Code of Conduct
 
-See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
+See [CODE_OF_CONDUCT.md](https://github.com/nimb3s/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
 
 This code of conduct applies to all of the projects under the [Nimb3s organization on GitHub](https://github.com/orgs/nimb3s/) and the Nimb3s community at large (IRC, mailing lists, Google+, Twitter, etc.).
 
